@@ -1,2 +1,2 @@
 # sakira-code
-Code associated with ""Shadow Art Kanji: Inverse Rendering Application"
+Code associated with "Shadow Art Kanji: Inverse Rendering Application"
